@@ -9,5 +9,11 @@ Sirfetch'd
 Chandelure
 Toxtricity
 modifying feature-branch
+Meowscarada
+Talonflame
+Luxray
+Tinkaton
+Dragapult
+Beartic
 
 modifying feature-branch 2
